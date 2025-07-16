@@ -1,4 +1,5 @@
 # 🎉 Claude Code Installation Guide [Latest]
+[English](README_en.md) | [中文](README.md)
 
 Claude Code is a powerful AI programming assistant that enables direct collaboration with AI in your terminal. This guide will walk you through the installation and configuration process.
 
