@@ -1,5 +1,5 @@
 # 🎉Claude Code 安装使用教程【最新】
-[切换英文](/README_en.md)
+[English](README.md) | [中文](README_zh.md)
 
 >Claude Code 是一个强大的 AI 编程助手，让您可以直接在终端中与 AI 协作编程。本教程将指导您完成安装和配置过程。
 ## 📋 系统要求
